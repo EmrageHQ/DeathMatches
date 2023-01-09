@@ -1,0 +1,13 @@
+name: DeathMatch
+version: '${project.version}'
+main: me.gamerpvg.deathmatch.DeathMatch
+api-version: 1.19
+authors: [ GamerPvG ]
+description: Dies ist ein DeathMatchplugin, das sehr coole Matches ermöglicht
+website: https://www.emrage.org/
+commands:
+  start:
+  heal:
+  health:
+  info:
+    description: Infos über den Spieler
